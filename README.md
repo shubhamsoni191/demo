@@ -6,3 +6,4 @@ modifying file
 modifying file in new branch updates
 
 update in master branch
+stashing this modification
